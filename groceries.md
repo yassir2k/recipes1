@@ -1,0 +1,3 @@
+- Lime 1.25
+- Coconut 4.99
+- Tomato 0.88
