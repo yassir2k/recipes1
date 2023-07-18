@@ -7,4 +7,4 @@
 #Instruction
 
 - Boil Water
-
+- Put peas into water
