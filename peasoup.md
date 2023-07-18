@@ -8,3 +8,4 @@
 
 - Boil Water
 - Put peas into water
+- Defrost peas
